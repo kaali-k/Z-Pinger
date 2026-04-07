@@ -1,6 +1,17 @@
 # Z Pinger – Connection Keeper 📶
 
-**Z Pinger** is a lightweight Android utility designed to keep your internet connection alive by preventing the network interface from entering idle or dormant mode. It's especially useful for users on unstable ISPs or specific networks (like Hutch in Sri Lanka) where connection timeouts are common.
+**Z Pinger** is a lightweight Android utility designed to keep your internet connection alive by preventing the network interface from entering idle or dormant mode.
+
+---
+
+## 📥 Downloads
+
+<a href="https://play.google.com/store/apps/details?id=com.zentix.zpinger">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
+</a>
+
+- **Official Play Store**: Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.zentix.zpinger)
+- **Direct APK**: Download the latest [ZPinger.apk](https://github.com/kaali-k/Z-Pinger/releases/latest/download/ZPinger.apk) from GitHub Releases.
 
 ---
 
