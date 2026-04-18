@@ -1,16 +1,18 @@
-# 🚀 Z Pinger - Stable Release
+# Z Pinger – Connection Keeper 📶
 
-**Latest Update:** Optimized build with improved background stability.
-
-### 📥 Download Options
-*   **[Download Z.Pinger.Latest.apk](https://github.com/kaali-k/Z-Pinger/releases/download/v1.0.0/Z.Pinger.Latest.apk)** (Recommended)
-*   **[Download Z.Pinger.apk (v1.0.0)](https://github.com/kaali-k/Z-Pinger/releases/download/v1.0.0/Z.Pinger.apk)** (Legacy)
+**Z Pinger** is a lightweight Android utility designed to keep your internet connection alive by preventing the network interface from entering idle or dormant mode.
 
 ---
 
-# Z Pinger – Connection Keeper 📶
+## 📥 Downloads
 
-**Z Pinger** is a lightweight Android utility designed to keep your internet connection alive by preventing the network interface from entering idle or dormant mode. It's especially useful for users on unstable ISPs or specific networks (like Hutch in Sri Lanka) where connection timeouts are common.
+<a href="https://play.google.com/store/apps/details?id=com.zentix.zpinger">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
+</a>
+
+- **Latest Optimized Version**: [Download Z.Pinger.Latest.apk](https://github.com/kaali-k/Z-Pinger/releases/download/v1.0.0/Z.Pinger.Latest.apk) (Stable Background)
+- **Official Play Store**: Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.zentix.zpinger)
+- **Direct APK (v1.0.0)**: Download the [ZPinger.apk](https://github.com/kaali-k/Z-Pinger/releases/latest/download/ZPinger.apk) from GitHub.
 
 ---
 
