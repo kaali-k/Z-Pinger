@@ -1,56 +1,37 @@
-# Z Pinger – Connection Keeper 📶
+# 🚀 Z Pinger - Official Release
 
-**Z Pinger** is a lightweight Android utility designed to keep your internet connection alive by preventing the network interface from entering idle or dormant mode.
+Z Pinger is now available for stable use. We offer both the latest optimized version and the legacy stable version to suit your needs.
 
----
+## 📥 Download Links
 
-## 📥 Downloads
-
-<a href="https://play.google.com/store/apps/details?id=com.zentix.zpinger">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
-</a>
-
-- **Official Play Store**: Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.zentix.zpinger)
-- **Direct APK**: Download the latest [ZPinger.apk](https://github.com/kaali-k/Z-Pinger/releases/latest/download/ZPinger.apk) from GitHub Releases.
+| Version | Download Link | Description |
+|:--- |:--- |:--- |
+| **Latest Version** | [Download Z.Pinger.Latest.apk](https://github.com/kaali-k/Z-Pinger/releases/download/v1.0.0/Z.Pinger.Latest.apk) | Optimized performance, improved stability. |
+| **Legacy (v1.0.0)** | [Download Z.Pinger.apk](https://github.com/kaali-k/Z-Pinger/releases/download/v1.0.0/Z.Pinger.apk) | The original stable build. |
 
 ---
 
-## 🌟 Key Features
+## ✨ Key Features
 
-- **🚀 Background Keep-Alive**: Runs as a persistent foreground service, maintaining the connection even while your phone is locked or you're using other apps.
-- **⚙️ Custom Ping Intervals**: Choose from preset intervals (5s, 10s, 30s, etc.) to balance stability and data consumption.
-- **🖥️ Live Log Console**: Real-time visualization of connection status and ping responses.
-- **🔗 Profile Support**: Save up to 3 custom ping target URLs for different networking scenarios.
-- **🛡️ Data Efficient**: Uses thin HTTP HEAD requests to minimize data overhead while achieving maximum stability.
-
----
-
-## 🛠️ Technology Stack
-
-- **Framework**: [Flutter](https://flutter.dev/)
-- **Language**: Dart
-- **Libraries**: `dio`, `flutter_background_service`, `flutter_local_notifications`
-- **Branding**: Zentix Official
+*   **Background Connection Keep-Alive:** Keeps your mobile data active even when the screen is off.
+*   **Adjustable Ping Intervals:** Choose your own frequency (5s to 1min).
+*   **Live Logs:** Monitor your network latency and response codes in real-time.
+*   **Custom URL Profiles:** Save and switch between different target servers.
+*   **Low Resource Usage:** Designed to be light on your battery and RAM.
 
 ---
 
-## 📲 Installation
+## 🛠️ Installation Guide
 
-1. Download the latest APK from the [Releases](https://github.com/kaali-k/kalanasahan-portfolio/releases/) page.
-2. Open the `.apk` file and tap **Install**.
-3. Grant necessary permissions (Internet & Notification).
-4. Enter a target URL (e.g., `google.com`) and tap **Start**.
-
----
-
-## 🔒 Privacy
-
-Z Pinger is **Offline-First**. No personal data is collected or transmitted. It only pings your specified targets to maintain network activity.
+1.  **Download:** Pick your preferred version from the links above.
+2.  **Allow unknown sources:** If prompted, allow your browser to install apps from "Unknown Sources" in settings.
+3.  **Install:** Open the downloaded `.apk` file and tap **Install**.
+4.  **Launch:** Open Z Pinger and set your desired ping interval.
 
 ---
 
-## 👨‍💻 Developed by
-**Kalana Sahan Dillimuni**  
-*A Zentix Production*
+## ⭐ Support the Project
+If Z Pinger helps you keep a stable connection, please consider giving a **Star** to this repository! It helps me keep the project alive.
 
-[Zentix Official](https://kalanasahan.com/zentix.html)
+---
+*Developed with ❤️ by Zentix (Kalana Sahan)*
